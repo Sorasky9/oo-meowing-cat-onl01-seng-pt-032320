@@ -3,7 +3,6 @@ class Cat
 
 attr_accessor :name
 
-
-puts maru.meow
+ maru.meow
 
 end
