@@ -7,4 +7,4 @@ attr_accessor :name
 
 end
 
-puts "Meow!"
+puts meow
